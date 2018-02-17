@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.MyRead-header {
+  text-align: center;
+  background-color: green;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
