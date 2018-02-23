@@ -140,9 +140,16 @@ my-app/
     App.css
     App.js
     App.test.js
+    Book.css
+    Book.js
+    BooksAPI.js
     index.css
     index.js
-    logo.svg
+    registerServiceWorker.js
+    Shelf.css
+    Shelf.js
+    ShelfControl.css
+    ShelfControl.js
 ```
 
 For the project to build, **these files must exist with exact filenames**:
